@@ -3,6 +3,21 @@
   "count": 12,
   "readings": [
     {
+      "id": "6929",
+      "timestamp_utc": "2026-11-21T12:50:11.321Z",
+      "hashrate_sol_s": "840000",
+      "zec_hour": 0.0014628110434793543,
+      "zec_day": 0.0351074650435045,
+      "zec_week": 0.24575225530453151,
+      "zec_30_days": 1.0532239513051351,
+      "usd_day": 26.891123180273375,
+      "difficulty_m": 105.15,
+      "block_time_s": 26.02,
+      "network_hashrate_gsol_s": 33.86,
+      "page_status": 200,
+      "source": "2CryptoCalc"
+    },
+    {
       "id": "6928",
       "timestamp_utc": "2026-11-21T12:40:10.809Z",
       "hashrate_sol_s": "840000",
@@ -164,21 +179,6 @@
       "difficulty_m": 111.73,
       "block_time_s": 24.95,
       "network_hashrate_gsol_s": 37.22,
-      "page_status": 200,
-      "source": "2CryptoCalc"
-    },
-    {
-      "id": "6917",
-      "timestamp_utc": "2026-11-21T10:50:10.562Z",
-      "hashrate_sol_s": "840000",
-      "zec_hour": 0.001367704544657521,
-      "zec_day": 0.032824909071780504,
-      "zec_week": 0.22977436350246352,
-      "zec_30_days": 0.9847472721534152,
-      "usd_day": 24.487167501625546,
-      "difficulty_m": 112.46,
-      "block_time_s": 25.41,
-      "network_hashrate_gsol_s": 36.57,
       "page_status": 200,
       "source": "2CryptoCalc"
     }
